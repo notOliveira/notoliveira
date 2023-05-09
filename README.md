@@ -1,5 +1,5 @@
 # About Me:
-Male | 20 | Brazil 🇧🇷 <br><br>👨🏻‍🎓 Studying Systems Development at Fatec<br>💼 Working at NIC.br<br>👨🏻‍💻 IT Lover<br>⚡ <a href="https://linktr.ee/notoliveira">More about me!</a>
+20 | Brazil 🇧🇷 <br><br>👨🏻‍🎓 Studying Systems Development at Fatec<br>💼 Working at NIC.br<br>👨🏻‍💻 IT Lover<br>⚡ <a href="https://linktr.ee/notoliveira">More about me!</a>
 
 
 ## 🌐 Socials:

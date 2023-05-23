@@ -1,5 +1,5 @@
 # Sobre mim:
-20 | Brazil 🇧🇷 <br><br>👨🏻‍🎓 Studying Systems Development at Fatec<br>💼 Development Analyst at NIC.br<br>👨🏻‍💻 IT Lover<br>⚡ <a href="https://linktr.ee/notoliveira">More about me!</a>
+20 | Brasil 🇧🇷 <br><br>👨🏻‍🎓 Estudando Desenvolvimento de Software na Fatec<br>💼 Analista de Desenvolvimento no NIC.br<br>👨🏻‍💻 Entusiasta da progamação<br>⚡ <a href="https://linktr.ee/notoliveira">Mais sobre mim!</a>
 
 
 # 🌐 Minhas redes:

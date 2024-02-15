@@ -1,5 +1,5 @@
 # Sobre mim:
-20 | Brasil 🇧🇷 <br><br>👨🏻‍🎓 Estudando Desenvolvimento de Software na Fatec Diadema<br>💼 Analista de Desenvolvimento no NIC.br<br>👨🏻‍💻 Entusiasta da programação<br>⚡ <a href="https://linktr.ee/notoliveira">Mais sobre mim!</a>
+21 | Brasil 🇧🇷 <br><br>👨🏻‍🎓 Estudando Desenvolvimento de Software na Fatec Diadema<br>💼 Analista de Desenvolvimento no NIC.br<br>👨🏻‍💻 Entusiasta da programação<br>⚡ <a href="https://linktr.ee/notoliveira">Mais sobre mim!</a>
 
 
 # 🌐 Minhas redes:
